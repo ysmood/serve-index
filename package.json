@@ -1,5 +1,5 @@
 {
-  "name": "serve-index",
+  "name": "ys-serve-index",
   "description": "Serve directory listings",
   "version": "1.1.4",
   "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
